@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          start react for oodlecarfinance
         </a>
       </header>
     </div>
